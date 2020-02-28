@@ -1,4 +1,2 @@
 # TestCode
-## Python day1
-   基础语法
-   
+怎样处理呢
